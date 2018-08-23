@@ -104,7 +104,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_programmes/numbers.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/python_programmes/booleans.py" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -119,7 +119,7 @@
     </option>
   </component>
   <component name="RunManager">
-    <configuration name="numbers" type="PythonConfigurationType" factoryName="Python">
+    <configuration name="booleans1" type="PythonConfigurationType" factoryName="Python">
       <module name="durga1" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,7 +131,7 @@
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_programmes/numbers.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/python_programmes/booleans.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
